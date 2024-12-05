@@ -1,3 +1,6 @@
 
-# Link Excel file
-## https://docs.google.com/spreadsheets/d/1j7gLlLUJxrwDb1Lb3JuyXW0dapov2L29/edit?usp=sharing&ouid=103534712824444462906&rtpof=true&sd=true
+# Programmation 1A Esirem
+## TD 1 : Initiation à Python (3-4h)
+## TD 2 : Gestion d'une interface graphique (2-4h)
+## TD 3 : Initiation à Git (3-4h)
+
